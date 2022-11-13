@@ -1,2 +1,2 @@
 # milestone-portfolio-project
-one-page static website
+One-page static website
